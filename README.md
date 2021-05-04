@@ -1,6 +1,9 @@
 # Marvel App: Kotlin-MVP
 
+<img align="right" src="https://raw.githubusercontent.com/Felixcl91/MarvelApp/master/assets/characters.jpg" width="200">
+
 ### Libraries & Documents:
+https://raw.githubusercontent.com/Felixcl91/MarvelApp/master/assets/characters.jpg
 
 1. Dagger2: [GitHub - google/dagger: A fast dependency injector for Android and Java.](https://github.com/google/dagger)
 2. Retrofit: [GitHub - square/retrofit: Type-safe HTTP client for Android and Java by Square, Inc.](https://github.com/square/retrofit)
